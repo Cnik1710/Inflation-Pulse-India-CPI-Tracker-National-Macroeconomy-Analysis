@@ -165,14 +165,8 @@ aids in hedging and informed portfolio planning.
 ---
 
 ## 🙏 Acknowledgements & Contact 
- ### Project Analyst: Anik Chakraborty	
-   📧 Email: anikc1710@gmail.com  
- 
-
-## 🙏 Acknowledgements & Contact
 ### **Project Analyst:** Anik Chakraborty
-📧 *[anikc1710@gmail.com](mailto:anikc1710@gmail.com)*
-
+   📧 Email: anikc1710@gmail.com  
 ### **Special Thanks To:**
  * National Statistical Office (NSO) – for CPI data
  * Petroleum Planning & Analysis Cell (PPAC) – for crude oil price data
