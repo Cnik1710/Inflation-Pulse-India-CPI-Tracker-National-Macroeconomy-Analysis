@@ -25,7 +25,7 @@ To develop a **structured, visual, and data-driven analysis** of India’s Consu
   * Focuses on **India’s Consumer Price Index (CPI)** to analyze key inflation drivers and sectoral trends.
   * Incorporates **monthly CPI data** across major categories — *Food, Fuel, Housing, Health, Education,* etc.
   * Integrates **macro-economic indicators** such as *global crude oil prices* and *COVID-19 impact periods* for contextual depth.
-  * Utilizes **Microsoft Excel** (Pivot Tables, Charts, KPIs) and optionally Power BI for visual storytelling.
+  * Utilizes **Microsoft Excel** (Pivot Tables, Charts, KPIs) for visual storytelling.
   * The **Inflation Insights Dashboard** enables:
      * Year-over-year and category-based inflation trend analysis
      * Comparison of food vs. non-food inflation contribution
@@ -36,8 +36,9 @@ To develop a **structured, visual, and data-driven analysis** of India’s Consu
 
 ## 🗂️ Data Overview & Schema
 ### **Data Source:**
-  * **Primary:** National Statistical Office (NSO), Ministry of Statistics & Programme Implementation (MoSPI), Government of India
-  * **Supplementary:** Monthly crude oil prices (Brent/Indian Basket) from Petroleum Planning & Analysis Cell (PPAC), Govt. of India
+  * **Source (Primary):** National Statistical Office (NSO), Ministry of Statistics & Programme Implementation (MoSPI), Government of India
+  * **Source (Supplementary):** Monthly crude oil prices (Brent/Indian Basket) from Petroleum Planning & Analysis Cell (PPAC), Govt. of India
+  * **Data Type:** Structured tabular dataset
   * **Time Period:** January 2013 – December 2023 (11 years, monthly frequency)
 ### **Data Structure & Metrics:**
   * **Key Index Types:** CPI–Rural (CPI-R), CPI–Urban (CPI-U), CPI–Combined (General)
