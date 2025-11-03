@@ -19,7 +19,6 @@ To develop a **structured, visual, and data-driven analysis** of India’s Consu
   * Excel dashboard
   * Presentation slides summarizing insights
   * Concise analytical report
-
 ---
 ## 📘 Project Overview
 ### **Context Highlights:**
@@ -33,9 +32,7 @@ To develop a **structured, visual, and data-driven analysis** of India’s Consu
      * Assessment of COVID-19 and oil price shocks
      * Exploration of correlation between fuel prices and CPI inflation
      * Aids **policymakers, analysts, and businesses** in monitoring inflation and framing **data-driven economic strategies**.
-
 ---
-
 ## 🗂️ Data Overview & Schema
 ### **Data Source:**
   * **Primary:** National Statistical Office (NSO), Ministry of Statistics & Programme Implementation (MoSPI), Government of India
@@ -46,7 +43,6 @@ To develop a **structured, visual, and data-driven analysis** of India’s Consu
   * **Key Index Types:** CPI–Rural (CPI-R), CPI–Urban (CPI-U), CPI–Combined (General)
   * **Categories:** 20+ CPI sub-groups aggregated into broader buckets — *Food & Beverages, Fuel & Light, Housing, Clothing & Footwear, Transport, Healthcare, Miscellaneous*
   * **Calculated Metrics:** YoY inflation %, MoM % change, pre/post-COVID comparisons, correlation matrices
-
 ---
 ## 💻 Tech Stack
 ### **Tools:**
@@ -54,9 +50,7 @@ To develop a **structured, visual, and data-driven analysis** of India’s Consu
       * Data cleaning, preprocessing, analysis, visualization, and dashboard creation
   * **PowerPoint:**
       * Presentation and final dashboard snapshots
-
 ---
-
 ## 📈 Methodology & Analysis
 ### **Preparation, Process & Analytical Approach:**
   * Grouped detailed subcategories (e.g., **Cereals, Beverages, Milk**) into broader economic buckets such as **Food, Clothing &     Footwear, Energy, Health**, etc. for comprehensive analysis.
@@ -75,7 +69,6 @@ To develop a **structured, visual, and data-driven analysis** of India’s Consu
 
   * Utilized key Excel functions like **`=IF()`, `=AVERAGE()` and custom percentage-change** formulas for calculations and automation.
 ---
-
 ## ❓ Problem Statements
 
 ### **Key Questions:**
@@ -99,9 +92,7 @@ To develop a **structured, visual, and data-driven analysis** of India’s Consu
   * **5. Oil Price Fluctuations vs. CPI (2021–23)**
      *  Analyze how **crude oil price movements** affected India’s CPI
      *  Identify **CPI categories** most responsive to oil price changes
-
 ---
-
 ## 💡 Key Insights
 ### **Top Findings:**
   * *Food & Beverages* consistently the largest inflation driver (~45% CPI weight).
@@ -115,9 +106,7 @@ To develop a **structured, visual, and data-driven analysis** of India’s Consu
   * Avg. YoY CPI growth (2020–23): **6.4%**
   * Max inflation: **7.8% (Fuel & Light, 2022)**
   * Correlation (Oil vs. CPI): **r = 0.82**
-
 ---
-
 ## 📍 Conclusion
 ### **Summary:**
   * **Food inflation** remains the primary driver of India’s overall CPI due to its nearly 50% weight — making supply-side stability critical.
@@ -133,42 +122,29 @@ To develop a **structured, visual, and data-driven analysis** of India’s Consu
       * Strengthened logistics and distribution systems
 
   * Inflation management requires **real-time price monitoring** and **timely interventions**. Forward-looking preparedness — governments must anticipate lagged inflation spikes post-crisis and ensure stability in core consumer categories (food, healthcare, housing).
-
-
   * Oil price fluctuations have a cascading impact across sectors; hence, **Fuel policies and tax structures (subsidies, tax control/calibration)**, **global oil market monitoring** crucial for macroeconomic stability.  
-
   * For businesses and investors, tracking **CPI-linked sector analysis (FMCG, logistics, energy)** can guide smarter pricing and risk management decisions,
 aids in hedging and informed portfolio planning.   
-
 ---
-
 ## 🖥️ Dashboard Overview
-
 ![image alt](https://github.com/Cnik1710/CPI-Consumer-Price-Index-Data-Analysis/blob/3b62c85574080b1ae24ada8a1ea20b0ce43d1dae/Inflation%20Pulse%20India%20CPI%20Tracker%20National%20Macroeconomy%20Analysis%20Final%20Report.png)
 
 ---
-
 ## ✅ Business Impact & Use Cases
-
   * **Government & Policy Bodies:**
       Enable data-driven inflation control, subsidy allocation, and stabilization measures.
-
   * **Economic Planners & Analysts:**
       Forecast inflation trends, assess sectoral pressures, and frame monetary responses.
-
   * **Investors & Financial Institutions:**
       Leverage CPI–oil correlations to anticipate market movements and optimize strategies.
-
   * **General Public & Businesses:**
       Track cost-of-living trends and adjust budgets or pricing models accordingly.
-
 ---
-
 ## 🙏 Acknowledgements & Contact 
 ### **Project Analyst:** Anik Chakraborty
    📧 Email: anikc1710@gmail.com  
 ### **Special Thanks To:**
- * National Statistical Office (NSO) – for CPI data
- * Petroleum Planning & Analysis Cell (PPAC) – for crude oil price data
- * Coding Ninjas – for project framework and guidance
+  * National Statistical Office (NSO) – for CPI data
+  * Petroleum Planning & Analysis Cell (PPAC) – for crude oil price data
+  * Coding Ninjas – for project framework and guidance
 
