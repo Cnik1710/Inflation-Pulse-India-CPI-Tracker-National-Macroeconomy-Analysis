@@ -101,7 +101,6 @@ To develop a **structured, visual, and data-driven analysis** of India’s Consu
   * Urban inflation overtook rural inflation post-2021 due to **housing and services**.
   * Headline CPI exceeded **RBI’s 6% tolerance band** multiple times, reflecting supply shocks.
   * Fuel price spikes showed **ripple effects on food inflation**, highlighting cost-push dynamics.
-
 ### **Supporting Metrics:**
   * Avg. YoY CPI growth (2020–23): **6.4%**
   * Max inflation: **7.8% (Fuel & Light, 2022)**
