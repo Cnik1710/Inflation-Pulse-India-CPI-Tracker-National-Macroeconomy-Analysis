@@ -88,8 +88,8 @@ To develop a **structured, visual, and data-driven analysis** of India’s Consu
 
 ## 💡 Key Insights
 ### **Top Findings:**
-  * *Food & Beverages* consistently the largest inflation driver (~45% CPI weight).
-  * *Fuel & Light* exhibited highest volatility, correlated with oil prices (**r ≈ 0.82**).
+  * **Food & Beverages** consistently the largest inflation driver (~45% CPI weight).
+  * **Fuel & Light** exhibited highest volatility, correlated with oil prices (**r ≈ 0.82**).
   * Post-COVID era (2020–22) saw **essentials inflation surge**, discretionary items stabilize.
   * Urban inflation overtook rural inflation post-2021 due to **housing and services**.
   * Headline CPI exceeded **RBI’s 6% tolerance band** multiple times, reflecting supply shocks.
