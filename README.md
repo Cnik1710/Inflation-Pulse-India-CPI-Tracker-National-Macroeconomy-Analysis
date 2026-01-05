@@ -53,14 +53,28 @@ To develop a **structured, visual, and data-driven analysis** of India’s Consu
 
 ## 📈 Methodology & Analysis
 ### **Preparation, Process & Analytical Approach:**
-  * Grouped detailed subcategories (e.g., **Cereals, Beverages, Milk**) into broader economic buckets such as **Food, Clothing &     Footwear, Energy, Health**, etc. for comprehensive analysis.
-  * Computed **Year-on-Year (YoY) and Month-on-Month (MoM) inflation rates** using CPI index values
-  * Calculated percentage contribution of each category to total CPI, ensuring **all weights sum to 100%**, reflecting each segment’s proportional impact.
-  * Conducted **correlation analysis using `=CORREL()`** (e.g., imported oil prices vs. CPI categories).
-  * Compared **Pre- vs. Post-COVID** inflation patterns (cutoff: March 2020).
-  * Performed **data cleaning and imputation** for missing values using a **3-month moving average** technique.
-  * Created **line, bar, and pie charts** to visualize category trends and inflation dynamics.
-  * Utilized key Excel functions like **`=IF()`, `=AVERAGE()` and custom percentage-change** formulas for calculations and automation.
+  * **Data Preparation & Cleaning:**
+    * Cleaned raw CPI datasets by identifying missing or inconsistent observations.
+    * Handled missing values using a 3-month moving average imputation technique to maintain trend continuity.
+    * Ensured data consistency across time periods and CPI categories.
+  * **Data Modeling & Integration:**
+    * Grouped detailed CPI subcategories (e.g., Cereals, Beverages, Milk) into broader economic buckets such as Food, Clothing & Footwear, Energy, Health, etc., for macro-level analysis.
+    * Integrated supplementary datasets such as imported crude oil prices to analyze external inflation drivers.
+    * Aligned all datasets temporally to enable month-on-month and year-on-year comparisons.
+  * **Feature Engineering:**
+    * Computed Year-on-Year (YoY) and Month-on-Month (MoM) inflation rates using CPI index values.
+    * Calculated percentage contribution of each category to total CPI, ensuring that all category weights sum to 100%, accurately reflecting proportional impact.
+    * Performed correlation analysis using =CORREL() to assess relationships between oil prices and CPI categories.
+    * Segmented data into Pre- vs. Post-COVID periods (cutoff: March 2020) for impact assessment.
+  * **Visualization Design:**
+    * Created line charts to track inflation trends over time.
+    * Designed bar and pie charts to highlight category-wise contribution and volatility.
+    * Implemented slicers and filters for interactive exploration of inflation patterns across periods and categories.
+  * **Validation & Formatting:**
+    * Cross-validated calculated inflation rates and category contributions to ensure numerical accuracy.
+    * Verified that aggregated category contributions aligned with headline CPI values.
+    * Utilized key Excel functions such as =IF(), =AVERAGE(), and custom percentage-change formulas for automated calculations and error handling.
+    * Applied consistent formatting standards to enhance dashboard readability and presentation quality.
 ---
 
 ## ❓ Problem Statements
