@@ -1,7 +1,4 @@
-# Inflation Pulse India CPI Tracker National Macroeconomy Analysis (2013-23)
-
----
-
+# Inflation Pulse India CPI Tracker National Macroeconomy Analysis
 ## 🎯 Objective
 To develop a **structured, visual, and data-driven analysis** of India’s Consumer Price Index (CPI) to uncover actionable insights that support **economic decision-making** at both policy and strategic levels.
 ### **Project Purpose:**
